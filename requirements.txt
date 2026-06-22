@@ -1,0 +1,2 @@
+# no external libraries needed (pure Python standard library)
+# this file tells Render this is a Python project
